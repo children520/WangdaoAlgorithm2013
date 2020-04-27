@@ -9,7 +9,7 @@ public class Edge {
 
     @Override
     public String toString() {
-        return "Edge{" +
+        return "Complete.Edge{" +
                 "source=" + source +
                 ", destination=" + destination +
                 '}';

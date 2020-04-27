@@ -1,4 +1,4 @@
-package Complete;
+package Search;
 
 public class OneHundredChickenProblem_40 {
     public static void main(String[] args) {

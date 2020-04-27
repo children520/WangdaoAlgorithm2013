@@ -1,6 +1,6 @@
 package Complete;
 
-public class MoreIsBetter_41 {
+public class MoreIsBetter_42 {
     static int[] tree=new int[20];
     static int[] sum=new int[20];
     static int findRoot(int x){

@@ -1,6 +1,9 @@
-package Complete;
+package Graph;
 
-public class SmoothProject_41 {
+/**
+ * 任意点相互连通需要多少道路
+ */
+public class SmoothProject_5_1 {
     static int townNumber=5;
     static int roadNumber=3;
     static int[] tree=new int[townNumber+1];
