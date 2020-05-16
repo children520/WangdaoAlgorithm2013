@@ -2,7 +2,8 @@ import java.util.*;
 
 public class test {
     public static void main(String[] args) {
-
+        float f=3.2f;
+        System.out.println(f);
     }
 
     public static int gcd(int a,int b){

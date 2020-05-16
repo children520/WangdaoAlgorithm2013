@@ -52,7 +52,6 @@ public class FortuneCola_6_3 {
                 newState.grossCapacity=newGrossCapacity;
                 newState.firstCapacity=newFirstCapacity;
                 newState.secondCapacity=newSecondCapacity;
-
                 newState.count=state.count+1;
                 queue.add(newState);
                 stateList[newGrossCapacity][newFirstCapacity][newSecondCapacity]=true;
