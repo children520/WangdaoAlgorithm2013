@@ -3,12 +3,12 @@ package Dijkstra;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import org.junit.Test;
+//import org.junit.Test;
 public class TestDijkstraAlgorithm {
     private List<Vertex> nodes;
     private List<Edge> edges;
 
-    @Test
+    //@Test
     public void testExcute(){
         nodes=new ArrayList<>();
         edges=new ArrayList<>();
