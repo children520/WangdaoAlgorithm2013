@@ -2,6 +2,9 @@ import java.util.*;
 
 public class test {
     public static void main(String[] args) {
+        String str="hello";
+        int count=str.codePointCount(0,str.length());
+        System.out.println(count);
         float f=3.2f;
         System.out.println(f);
     }

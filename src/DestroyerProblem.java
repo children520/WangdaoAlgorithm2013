@@ -62,7 +62,6 @@ public class DestroyerProblem {
                     int replySpeed=magicUnitList[i][2];
                     int maxBlueAmount=magicUnitList[k-1][1];
                     int temp=getCurBlueAmount(startTime,endtime,beformAmount,replySpeed,maxBlueAmount);
-                    System.out.println(temp);
                     result+=temp;
             }
         }
@@ -79,6 +78,7 @@ public class DestroyerProblem {
         }
         return curBlueAmount;
     }
+
 
 
 
